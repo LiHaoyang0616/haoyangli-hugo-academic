@@ -5,9 +5,9 @@ avatar_filename: 个人照片.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
+  - Computer Vision
+  - Visual object tracking
 social:
   - icon: envelope
     icon_pack: fas
