@@ -26,7 +26,7 @@ social:
     link: https://github.com/LiHaoyang0616
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.cn/incareer/in/ACoAAD7Y6oYBYHNrVHbDYH-XaYj90NSIotdHsiQ
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
