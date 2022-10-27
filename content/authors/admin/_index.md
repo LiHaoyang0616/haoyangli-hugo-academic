@@ -34,7 +34,7 @@ education:
   courses:
     - course: BEng in Intelligent Manufacture(mainly engaged in Computer Science)
       institution: Tongji University
-      year: 2024
+      year: 2023
 superuser: true
 last_name: Bighetti
 highlight_name: true
