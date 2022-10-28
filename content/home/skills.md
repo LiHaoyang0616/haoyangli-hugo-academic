@@ -20,17 +20,3 @@ feature:
     icon_pack: fas
     name: Photography
 ---
-feature:
-
-* icon: r-project
-  icon_pack: fab
-  name: R
-  description: 70%
-* icon: chart-line
-  icon_pack: fas
-  name: Statistics
-  description: 100%
-* icon: camera-retro
-  icon_pack: fas
-  name: Photography
-  description: 10%
