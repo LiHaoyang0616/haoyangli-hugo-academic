@@ -5,7 +5,7 @@ date: 2021-11-01T00:00:00.000Z
 summary: An example of linking directly to an external project website using
   `external_link`.
 tags:
-  - Demo
+  - Robotics
 external_link: https://example.org
 image:
   caption: Photo by Toa Heftiba on Unsplash
