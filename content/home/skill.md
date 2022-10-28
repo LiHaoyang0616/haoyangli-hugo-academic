@@ -20,11 +20,11 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: 100%
+  - description: 80%
     icon: drone
-    icon_pack: fas
+    icon_pack: fab
     name: Drone
-  - description: 10%
+  - description: 90%
     icon: basketball
     icon_pack: fas
     name: Basketball
