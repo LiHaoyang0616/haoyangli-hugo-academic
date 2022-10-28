@@ -22,28 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Research Assistant
+    company: Vision4Robotics, Tongji University
+    company_url: 'https://vision4robotics.github.io/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Shanghai
+    date_start: '2022-07-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    Responsibilities include:: |2-
+        * Develop real-time and robust aerial visual tracking methods
+        * Explore unmanned aerial vehicle (UAV) tracking strategies in low-light environment
+        * Introduce visual object tracking benchmarks from multiple views
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assistant
+    company: Venibot Group, Tongji University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Shanghai
+    date_start: '2020-09-01'
+    date_end: '2022-03-30'
+    Responsibilities include:: |2-
+        * Build 2 puncture robot prototypes
+        * Explore image segmentation algorithms for NIR and Ultrasound
+        * Design mechanical medical aids
 
 design:
   columns: '2'
