@@ -3,6 +3,7 @@ widget: features
 widget_id: Skill
 headless: true
 weight: 10
+title: Skills
 active: true
 design:
   columns: "2"
