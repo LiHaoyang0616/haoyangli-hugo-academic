@@ -4,6 +4,8 @@ subtitle: Third-party Automotive Personalized Intelligent Customization Platform
 date: 2022-10-28T05:17:36.249Z
 draft: false
 featured: false
+tags:
+  - Software Development
 image:
   filename: featured.png
   focal_point: Smart
