@@ -41,8 +41,9 @@ highlight_name: true
 first_name: Alice
 email: haoyang-li@outlook.com
 ---
-
 Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Haoyang Li is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in Intelligent Manufacture, with **First Scholarship**, and **Excellent Student**, where I work in [Vision4robotics Lab](https://vision4robotics.github.io/) and **Veni-Bot Group**[](https://vision4robotics.github.io/). My research interests include robotics, computer vision and visual object tracking. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
