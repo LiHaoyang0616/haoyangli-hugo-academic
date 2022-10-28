@@ -1,7 +1,7 @@
 ---
 title: 挖掘机自动导航与动作联合仿真
 subtitle: Joint Simulation of Automatic Navigation and Movement of Excavator
-date: 2016-04-27T00:00:00Z
+date: 2021-11-01T00:00:00.000Z
 summary: An example of linking directly to an external project website using
   `external_link`.
 tags:
