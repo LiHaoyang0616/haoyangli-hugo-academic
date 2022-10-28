@@ -21,9 +21,9 @@ feature:
     icon_pack: fab
     name: Python
   - description: 80%
-    icon: fa-person-swimming
+    icon: dumbbell
     icon_pack: fab
-    name: Swimming
+    name: Exercise
   - description: 90%
     icon: basketball
     icon_pack: fas
