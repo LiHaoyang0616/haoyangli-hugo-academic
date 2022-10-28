@@ -1,6 +1,6 @@
 ---
 widget: features
-widget_id: Skill
+widget_id: features
 headless: true
 weight: 10
 title: Skills
