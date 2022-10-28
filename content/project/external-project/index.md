@@ -2,8 +2,8 @@
 title: ROS仿真—挖掘机自动导航与动作联合仿真
 subtitle: Joint Simulation of Automatic Navigation and Movement of Excavator
 date: 2021-11-01T00:00:00.000Z
-summary: An example of linking directly to an external project website using
-  `external_link`.
+summary: An example of linking directly to an external project website click
+  [`here`](https://www.bilibili.com/video/BV1ia411q7nN/?spm_id_from=333.999.0.0).
 tags:
   - Robotics
 external_link: https://www.bilibili.com/video/BV1ia411q7nN/?spm_id_from=333.999.0.0&vd_source=8b1b869215cfb64e153752a132dacabc
