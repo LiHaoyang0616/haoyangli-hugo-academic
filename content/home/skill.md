@@ -21,9 +21,9 @@ feature:
     icon_pack: fab
     name: Python
   - description: 80%
-    icon: drone-front
+    icon: person-swimming
     icon_pack: fab
-    name: Drone
+    name: Swimming
   - description: 90%
     icon: basketball
     icon_pack: fas
