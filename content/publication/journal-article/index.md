@@ -28,7 +28,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: "*IEEE Robotics and Automation Letters (RA-L) 1*(1)"
+publication: "*IEEE Robotics and Automation Letters (RA-L) *"
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
