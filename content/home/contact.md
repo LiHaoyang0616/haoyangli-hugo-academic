@@ -31,25 +31,13 @@ content:
     street: 4800 Cao’an Highway
     city: Shanghai
     region: Shanghai
-    postcode: '94305'
     country: China
     country_code: CN
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
     - 'Workday 08:00 to 17:30'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
 
 design:
   columns: '2'
