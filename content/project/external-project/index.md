@@ -4,7 +4,7 @@ subtitle: Joint Simulation of Automatic Navigation and Movement of Excavator
 date: 2021-11-01T00:00:00.000Z
 summary: >-
   An example of linking directly to an external project website click
-  [`here`](https://www.bilibili.com/video/BV1ia411q7nN/?spm_id_from=333.999.0.0).
+  **[`here`](https://www.bilibili.com/video/BV1ia411q7nN/?spm_id_from=333.999.0.0)**.
 
 
   * 运用*Gmapping*算法建图   ***Use gmapping algorithm to build maps***；
