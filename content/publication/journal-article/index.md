@@ -44,7 +44,7 @@ tags:
   - Source Themes
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.png
