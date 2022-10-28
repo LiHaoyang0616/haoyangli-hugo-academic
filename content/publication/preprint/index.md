@@ -21,7 +21,7 @@ url_project: ""
 publication_short: ""
 url_source: "#"
 url_video: "#"
-date: 2019-04-07T00:00:00.000Z
+date: 2022-10-28T07:37:28.154Z
 url_slides: ""
 links:
   - name: Custom Link
