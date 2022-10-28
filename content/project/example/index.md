@@ -14,7 +14,7 @@ external_link: ""
 url_slides: ""
 subtitle: A portable robotic device for autonomous vascular access.
 tags:
-  - Robitcs
+  - Robotics
 links:
   - icon: twitter
     icon_pack: fab
