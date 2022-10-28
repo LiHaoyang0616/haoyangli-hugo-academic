@@ -21,9 +21,9 @@ feature:
     icon_pack: fab
     name: Python
   - description: 100%
-    icon: chart-line
+    icon: drone
     icon_pack: fas
-    name: Statistics
+    name: Drone
   - description: 10%
     icon: basketball
     icon_pack: fas
