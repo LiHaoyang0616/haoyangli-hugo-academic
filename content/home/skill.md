@@ -21,7 +21,7 @@ feature:
     icon_pack: fab
     name: Python
   - description: 80%
-    icon: person-swimming
+    icon: fa-person-swimming
     icon_pack: fab
     name: Swimming
   - description: 90%
