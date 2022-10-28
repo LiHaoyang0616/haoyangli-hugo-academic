@@ -16,8 +16,9 @@ links:
     name: Follow
     url: https://twitter.com/georgecushen
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Post by Venibot Group
   focal_point: Smart
+  filename: featured.jpg
 url_code: ""
 ---
 Nowadays, **venipuncture** has been exclusively performed in both routine examinations and emergencies. however, it’s difficult to even for professional clinicians, for elder people, infants, or people in shock states. Meanwhile, the demand for an unmanned medical devices is increasing under regular epidemic control, to reduce the risk of cross-infection.
