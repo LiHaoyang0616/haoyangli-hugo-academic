@@ -8,7 +8,7 @@ publication_types:
 authors:
   - 齐鹏，李昊洋，吴轶喆
 publication: ""
-featured: false
+featured: true
 tags:
   - Source Themes
 projects:
