@@ -28,13 +28,13 @@ social:
     icon_pack: fab
     link: https://www.linkedin.cn/incareer/in/ACoAAD7Y6oYBYHNrVHbDYH-XaYj90NSIotdHsiQ
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tongji University
+    url: https://www.tongji.edu.cn/
 education:
   courses:
     - course: BEng in Intelligent Manufacture(mainly engaged in Computer Science)
       institution: Tongji University
-      year: 2023
+      year: ""
 superuser: true
 last_name: Bighetti
 highlight_name: true
