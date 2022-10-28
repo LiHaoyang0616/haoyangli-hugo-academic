@@ -28,7 +28,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*IEEE Robotics and Automation Letters (RA-L) 1*(1)"
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
@@ -48,7 +48,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.png
-date: 2015-09-01T00:00:00.000Z
+date: 2022-10-28T07:40:20.925Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
