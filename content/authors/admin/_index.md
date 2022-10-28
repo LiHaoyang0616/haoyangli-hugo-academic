@@ -45,6 +45,4 @@ Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab.
 
 Haoyang Li is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in Intelligent Manufacture, with **First Scholarship**, and **Excellent Student**, where I work in [Vision4robotics Lab](https://vision4robotics.github.io/) and **Veni-Bot Group**[](https://vision4robotics.github.io/). My research interests include robotics, computer vision and visual object tracking. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
