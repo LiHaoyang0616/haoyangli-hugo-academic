@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: Vision4Robotics, Tongji University
     company_url: 'https://vision4robotics.github.io/'
-    company_logo: org-gc
+    company_logo: V4R
     location: Shanghai
     date_start: '2022-07-01'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: Research Assistant
     company: Venibot Group, Tongji University
     company_url: ''
-    company_logo: org-x
+    company_logo: venibot
     location: Shanghai
     date_start: '2020-09-01'
     date_end: '2022-03-30'
