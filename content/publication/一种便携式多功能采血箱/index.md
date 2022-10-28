@@ -6,7 +6,7 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "8"
 authors:
-  - 齐鹏;李昊洋
+  - 齐鹏，李昊洋，吴轶喆
 publication: ""
 featured: false
 tags:
