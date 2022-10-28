@@ -1,12 +1,13 @@
 ---
 slides: example
 url_pdf: ""
+title: 基于深度学习多模态图像引导智能静脉穿刺机器人
 summary: An example of using the in-built project page.
 url_video: ""
 date: 2021-01-01T05:05:08.602Z
 external_link: ""
 url_slides: ""
-title: A portable robotic device for autonomous vascular access.
+subtitle: A portable robotic device for autonomous vascular access.
 tags:
   - Robitcs
 links:
