@@ -11,7 +11,7 @@ publication_types:
 authors:
   - 齐鹏，李昊洋
 publication: ""
-featured: false
+featured: true
 tags:
   - Source Themes
 projects:
