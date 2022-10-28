@@ -1,7 +1,7 @@
 ---
 title: Haoyang-Li 李昊洋
 role: Research Assistant in Vision4Robotics
-avatar_filename: 免冠照.jpg
+avatar_filename: 非正式头像.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
