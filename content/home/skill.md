@@ -21,7 +21,7 @@ feature:
     icon_pack: fab
     name: Python
   - description: 80%
-    icon: drone
+    icon: drone-front
     icon_pack: fab
     name: Drone
   - description: 90%
